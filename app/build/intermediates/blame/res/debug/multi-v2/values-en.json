@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\TUGAS KULI AH 5\\MOBILE PROGRAMING\\Profil-master\\Profil-master\\Profil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\TUGAS KULI AH 5\\MOBILE PROGRAMING\\Profil-master\\Profil-master\\Profil\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "57,102,158,207,289",
+                        "endColumns": "43,54,47,80,85",
+                        "endOffsets": "96,152,201,283,370"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,99,154,202,283",
+                        "endColumns": "43,54,47,80,85",
+                        "endOffsets": "94,149,197,278,364"
+                    }
+                }
+            ]
+        }
+    ]
+}
